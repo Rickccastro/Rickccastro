@@ -19,4 +19,4 @@ Vamos construir o futuro juntos!
 
 ![robot](https://github.com/Rickccastro/Rickccastro/assets/127992895/ccae7b04-4a37-4dc7-b3b9-c014f1920391)
 
-📫 How to reach me:ricardo.castro.linkedin@gmail.com//71 99290-7777
+📫 How to reach me: ricardo.castro.linkedin@gmail.com// 71 99290-7777
