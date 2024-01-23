@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Olá, meu nome é Ricardo, sou aluno de engenharia de software. Atualmente, estou aprofundando meus estudos em diversas tecnologias, tais como Java, JavaScript, SQL, HTML e CSS. Estou em busca de oportunidades para aplicar meus conhecimentos em programação e contribuir para o aprimoramento de  projetos pessoais e profissionais. Minha dedicação ao aprendizado constante e meu comprometimento com resultados fazem de mim um colega pronto para agregar valor ao seu time. 
+Vamos construir o futuro juntos!
 
+🌱 I’m currently learning: Java,JavaScript,SQl,HTML,CSS.
+📫 How to reach me: 71 99290-7777
 ![robot](https://github.com/Rickccastro/Rickccastro/assets/127992895/ccae7b04-4a37-4dc7-b3b9-c014f1920391)
