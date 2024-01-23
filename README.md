@@ -18,5 +18,4 @@ Olá, meu nome é Ricardo, sou aluno de engenharia de software. Atualmente, esto
 Vamos construir o futuro juntos!
 
 ![robot](https://github.com/Rickccastro/Rickccastro/assets/127992895/ccae7b04-4a37-4dc7-b3b9-c014f1920391)
-🌱 I’m currently learning: Java,JavaScript,SQl,HTML,CSS.
 📫 How to reach me: 71 99290-7777
