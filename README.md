@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![robot](https://github.com/Rickccastro/Rickccastro/assets/127992895/ccae7b04-4a37-4dc7-b3b9-c014f1920391)
