@@ -27,10 +27,9 @@ Vamos construir o futuro juntos!
 
 ### Redes Sociais
 
+📫How to reach me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rickccastro)
 [![Instagram](https://img.shields.io/badge/Instagram-gray?style=flat-square&logo=instagram)](https://www.instagram.com/rickccastro)
-
-📫 ### How to reach me
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-gray?style=flat-square&logo=whatsapp)](https://wa.me/5571992907777)
 [![Email](https://img.shields.io/badge/Email-gray?style=flat-square&logo=gmail)](mailto:ricardo.castro.linkedin@gmail.com)
