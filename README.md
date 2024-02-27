@@ -32,5 +32,5 @@ Vamos construir o futuro juntos!
 
 📫 ### How to reach me
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=flat-square&logo=whatsapp)](https://wa.me/5571992907777)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:ricardo.castro.linkedin@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-gray?style=flat-square&logo=whatsapp)](https://wa.me/5571992907777)
+[![Email](https://img.shields.io/badge/Email-gray?style=flat-square&logo=gmail)](mailto:ricardo.castro.linkedin@gmail.com)
