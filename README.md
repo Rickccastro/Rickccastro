@@ -30,4 +30,6 @@ Vamos construir o futuro juntos!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rickccastro)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-red?style=flat-square&logo=instagram)](https://www.instagram.com/rickccastro)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=flat-square&logo=whatsapp)](https://wa.me/5571992907777)
+[![Email](https://img.shields.io/badge/Enviar%20Email-Email-red?style=flat-square&logo=gmail)](mailto:ricardo.castro.linkedin@gmail.com)
+
 📫 How to reach me: ricardo.castro.linkedin@gmail.com// 71 99290-7777
