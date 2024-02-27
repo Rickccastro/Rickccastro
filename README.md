@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá, meu nome é Ricardo, sou desenvolvedor júnior e curso bacharelado de engenharia de software. Atualmente, estou aprofundando meus estudos em diversas tecnologias, tais como Java, JavaScript, SQL, HTML e CSS. Estou em busca de oportunidades para aplicar meus conhecimentos em programação e contribuir para o aprimoramento de  projetos pessoais e profissionais. Minha dedicação ao aprendizado constante e meu comprometimento com resultados fazem de mim um colega pronto para agregar valor ao seu time. 
+Olá, meu nome é Ricardo, sou desenvolvedor júnior e curso bacharelado de engenharia de software. Atualmente, estou em busca de oportunidades para aplicar meus conhecimentos em programação e contribuir para o aprimoramento de  projetos pessoais e profissionais. Minha dedicação ao aprendizado constante e meu comprometimento com resultados fazem de mim um colega pronto para agregar valor ao seu time. 
 Vamos construir o futuro juntos!
 
 ### Tecnologias
@@ -31,5 +31,6 @@ Vamos construir o futuro juntos!
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-red?style=flat-square&logo=instagram)](https://www.instagram.com/rickccastro)
 
 📫 ### How to reach me
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=flat-square&logo=whatsapp)](https://wa.me/5571992907777)
 [![Email](https://img.shields.io/badge/Enviar%20Email-Email-red?style=flat-square&logo=gmail)](mailto:ricardo.castro.linkedin@gmail.com)
