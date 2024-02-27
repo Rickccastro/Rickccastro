@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 Olá, meu nome é Ricardo, sou desenvolvedor júnior e curso bacharelado de engenharia de software. Atualmente, estou aprofundando meus estudos em diversas tecnologias, tais como Java, JavaScript, SQL, HTML e CSS. Estou em busca de oportunidades para aplicar meus conhecimentos em programação e contribuir para o aprimoramento de  projetos pessoais e profissionais. Minha dedicação ao aprendizado constante e meu comprometimento com resultados fazem de mim um colega pronto para agregar valor ao seu time. 
 Vamos construir o futuro juntos!
 
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
 📫 How to reach me: ricardo.castro.linkedin@gmail.com// 71 99290-7777
