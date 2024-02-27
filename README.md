@@ -27,10 +27,10 @@ Vamos construir o futuro juntos!
 
 ### Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rickccastro)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-red?style=flat-square&logo=instagram)](https://www.instagram.com/rickccastro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rickccastro)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram)](https://www.instagram.com/rickccastro)
 
 📫 ### How to reach me
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=flat-square&logo=whatsapp)](https://wa.me/5571992907777)
-[![Email](https://img.shields.io/badge/Enviar%20Email-Email-red?style=flat-square&logo=gmail)](mailto:ricardo.castro.linkedin@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat-square&logo=whatsapp)](https://wa.me/5571992907777)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:ricardo.castro.linkedin@gmail.com)
