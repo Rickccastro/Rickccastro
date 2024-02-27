@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Olá, meu nome é Ricardo, sou desenvolvedor júnior e curso bacharelado de engenharia de software. Atualmente, estou em busca de oportunidades para aplicar meus conhecimentos em programação e contribuir para o aprimoramento de  projetos pessoais e profissionais. Minha dedicação ao aprendizado constante e meu comprometimento com resultados fazem de mim um colega pronto para agregar valor ao seu time. 
 Vamos construir o futuro juntos!
 
-### Tecnologias 👾
+### Tecnologias :computer:
 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
