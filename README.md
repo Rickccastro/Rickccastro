@@ -30,7 +30,7 @@ Olá, meu nome é Ricardo Castro, sou estudante do bacharelado em Engenharia de 
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### Redes Sociais 📫
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
+[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rickccastro)
 [![Instagram](https://img.shields.io/badge/Instagram-gray?style=flat-square&logo=instagram)](https://www.instagram.com/rickccastro)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-gray?style=flat-square&logo=whatsapp)](https://wa.me/5571992907777)
