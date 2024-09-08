@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá, meu nome é Ricardo, sou estudante do bacharelado em Engenharia de Software. Atualmente, estou em busca de oportunidades para aplicar meus conhecimentos em programação e contribuir para o aprimoramento de  projetos pessoais e profissionais. Minha dedicação ao aprendizado constante e meu comprometimento com resultados fazem de mim um colega pronto para agregar valor ao seu time. 
-Vamos construir o futuro juntos!
-
+Olá, meu nome é Ricardo Castro, sou estudante do bacharelado em Engenharia de Software. 
+### Git Infos :computer:
+![Rickccastro's Stats](https://github-readme-stats.vercel.app/api?username=Rickccastro&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Rickccastro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rickccastro&theme=tokyonight&hide_border=true)
+![Rickccastro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickccastro&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ### Tecnologias :computer:
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
