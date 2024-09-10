@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Olá, meu nome é Ricardo Castro, sou estudante do bacharelado em Engenharia de Software. 
 ### Git Infos :computer:
-![Rickccastro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rickccastro&theme=tokyonight&hide_border=true)
+![Rickccastro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rickccastro&theme=tokyonight&hide_border=true)<br/>
 ![Rickccastro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickccastro&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ### Tecnologias :computer:
 
