@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 Olá, meu nome é Ricardo Castro, sou estudante do bacharelado em Engenharia de Software. 
 ### Git Infos :computer:
 ![Rickccastro's Stats](https://github-readme-stats.vercel.app/api?username=Rickccastro&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
-![Rickccastro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickccastro&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)<br/>
 ![Rickccastro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rickccastro&theme=tokyonight&hide_border=true)<br/>
+![Rickccastro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickccastro&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ### Tecnologias :computer:
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
