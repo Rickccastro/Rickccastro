@@ -1,19 +1,5 @@
 ### Hey, Welcome to my profile! 🚀
 
-<!--
-**Rickccastro/Rickccastro** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Hi! I'm Ricardo Castro, a **Full Stack Web Developer** currently studying Software Engineering at UCSal. I'm constantly coding and excited about building innovative solutions.
 ### Git Infos :computer:
 ![Rickccastro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickccastro&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
@@ -23,6 +9,8 @@ Here’s a quick look at the languages and technologies I’m working with:
 |--|--|--|--|--|--|
 <img src="Images/c-sharp-adesivo-sticker-removebg-preview.png" width="100"> | <img src="https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png?f=webp&w=256" width="90"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="70"> | <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_logo_icon_146509.png" width="80"> | <img src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" width="70"> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="80"> |
 
+### Get My CV Here
+[📄 Click here to download my resume](https://github.com/Rickccastro/Rickccastro/raw/main/Resume.pdf)
 
 ### Connect with Me 📫
 
