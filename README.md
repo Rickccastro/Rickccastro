@@ -1,7 +1,7 @@
-### Bem vindo 🌱
+### Hey, Welcome to my profile! 🚀
 
 <!--
-**Rickccastro/Rickccastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rickccastro/Rickccastro** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,22 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá, meu nome é Ricardo Castro, sou estudante do bacharelado em Engenharia de Software. 
+ My name is **Ricardo Castro**, im a **Full Stack Web Developer** graduating in **software engineering** in UCSal.
 ### Git Infos :computer:
-![Rickccastro's Stats](https://github-readme-stats.vercel.app/api?username=Rickccastro&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
 ![Rickccastro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickccastro&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ### Tecnologias :computer:
+|C#|Java|JavaScript|Git|React|SQL|
+|--|--|--|--|--|--|
+<img src="Images/c-sharp-adesivo-sticker-removebg-preview.png" width="100"> | <img src="https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png?f=webp&w=256" width="90"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="70"> | <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_logo_icon_146509.png" width="80"> | <img src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" width="70"> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="80"> |
 
-![CShrap](https://img.shields.io/badge/C%23-purple?style=for-the-badge&color=rgb(104%2C%203%2C%20133))
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white&color=rgb(178%2C%200%2C%200))
-![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black&color=rgb(251%2C%20214%2C%200))
-[![React](https://img.shields.io/badge/React-1E90FF?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
 
 ### Redes Sociais 📫
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rickccastro)
-[![Instagram](https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&color=rgb(255%2C%20255%2C%20255))](https://www.instagram.com/rickccastro)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-gray?style=for-the-badge&logo=whatsapp&logoColor=white&color=rgb(70%2C%20233%2C%200))](https://wa.me/5571992907777)
-[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&color=rgb(0%2C%200%2C%200))](mailto:ricardo.castro.linkedin@gmail.com)
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://www.linkedin.com/in/rickccastro">
+    <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" width="150">
+  </a>
+  <a href="https://www.instagram.com/rickccastro">
+    <img src="https://static.vecteezy.com/system/resources/previews/018/930/415/large_2x/instagram-logo-instagram-icon-transparent-free-png.png" width="100">
+  </a>
+  <a href="https://wa.me/5571992907777">
+    <img src="Images/whatsapp-logo-png-5a355f42a0b424.7149169515134472346583-1-removebg-preview.png" width="125">
+  </a>
+  <a href="mailto:ricardo.castro.linkedin@gmail.com">
+    <img src="Images/gmail-capa-removebg-preview.png" width="125">
+  </a>
+</div>
+
+
