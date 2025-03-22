@@ -16,8 +16,9 @@ Here’s a quick look at the languages and technologies I’m working with:
 <img src="https://github.com/Rickccastro/Rickccastro/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png?raw=true" alt="AWS Badge" width="200" height="auto">
 
 ### Get My Resume Here📝 
+
+### PT - [📄 Click here to download](https://github.com/Rickccastro/Rickccastro/raw/main/SimpleResume.pdf)
 ### EN - [📄 Click here to download](https://github.com/Rickccastro/Rickccastro/raw/main/Resume.pdf)
-### PT - [📄 Click here to download](https://github.com/Rickccastro/Rickccastro/raw/main/Resume.PT.pdf)
 
 ### Connect with Me 📫
 
