@@ -1,16 +1,21 @@
 ### Hey, Welcome to my profile! 🚀
 
-<img src="https://github.com/Rickccastro/Rickccastro/blob/main/Banner2.4.png" alt="AWS Badge"  height="auto">
-
 Hi! I'm Ricardo Castro, a **Full Stack Web Developer** currently studying Software Engineering at UCSal. I'm constantly coding and excited about building innovative solutions.
 
+<img src="https://github.com/Rickccastro/Rickccastro/blob/main/Banner2.4.png" alt="AWS Badge" width="1000" height="auto">
 
 ### My Skills :hammer_and_wrench:
 Here’s a quick look at the languages and technologies I’m working with:
 
-|C#|Java|JavaScript|Git|React|SQL|
-|--|--|--|--|--|--|
-<img src="Images/c-sharp-adesivo-sticker-removebg-preview.png" width="100"> | <img src="https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png?f=webp&w=256" width="90"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="70"> | <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*co_1qORNdM0PI1nvCp7Iig.png" width="80"> | <img src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" width="70"> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="80"> |
+| C# | .NET | TypeScript | Angular | Git |
+|----|------|------------|---------|-----|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="80"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80"> | <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="80"> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80"> |
+
+| Java | SpringBoot | JavaScript | React | SQL |
+|------|-------------|------------|-------|-----|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="80"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="80"> |
+
+
 
 ### Certifications
 <img src="https://github.com/Rickccastro/Rickccastro/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png?raw=true" alt="AWS Badge" width="200" height="auto">
