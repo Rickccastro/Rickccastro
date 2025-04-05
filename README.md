@@ -2,9 +2,6 @@
 
 Hi! I'm Ricardo Castro, a **Full Stack Web Developer** currently studying Software Engineering at UCSal. I'm constantly coding and excited about building innovative solutions.
 
-### Git Infos :computer:
-![Rickccastro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickccastro&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
 ### My Skills :hammer_and_wrench:
 Here’s a quick look at the languages and technologies I’m working with:
 
