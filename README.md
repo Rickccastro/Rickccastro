@@ -2,7 +2,7 @@
 
 Hi! I'm Ricardo Castro, a **Full Stack Web Developer** currently studying Software Engineering at UCSal. I'm constantly coding and excited about building innovative solutions.
 
-<img src="https://github.com/Rickccastro/Rickccastro/blob/main/Banner2.4.png" alt="AWS Badge" width="1000" height="auto">
+<img src="https://github.com/Rickccastro/Rickccastro/blob/main/BannerGit.png" alt="AWS Badge" width="1000" height="auto">
 
 ### My Skills :hammer_and_wrench:
 Here’s a quick look at the languages and technologies I’m working with:
