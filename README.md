@@ -92,7 +92,7 @@ Prazer em ter você aqui, me chamo Ricardo Castro, sou um **Desenvolvedor Full S
 <div align="center">
   <img height="200" src="https://github.com/Rickccastro/Rickccastro/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png?raw=true"  />
   
-### PT - [📄 Click here to download](https://github.com/Rickccastro/Rickccastro/raw/main/SimpleResume2025.1.pdf)<br>
+### PT - [📄 Click here to download](https://github.com/Rickccastro/Rickccastro/raw/main/Curriculo1.2.pdf)<br>
 ### EN - [📄 Click here to download](https://github.com/Rickccastro/Rickccastro/raw/main/Resume.pdf)
   
 </div>
