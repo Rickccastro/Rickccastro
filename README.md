@@ -85,15 +85,14 @@ Prazer em ter você aqui, me chamo Ricardo Castro, sou **Desenvolvedor Full Stac
 
 ###
 
-<h1 align="left">Certificação & CV</h1>
+<h1 align="left">Certificações</h1>
 
 ###
 
 <div align="center">
   <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png?raw=true"  />
-  
-### PT - [📄 Click here to download](https://github.com/Rickccastro/Rickccastro/raw/main/Curriculo1.2.pdf)<br>
-### EN - [📄 Click here to download](https://github.com/Rickccastro/Rickccastro/raw/main/Resume.pdf)
+  <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/AcademiaModerno.png?raw=true"  />
+  <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/AbapJR.png?raw=true"  />
   
 </div>
 
