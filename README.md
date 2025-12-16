@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Prazer em ter você aqui, me chamo Ricardo Castro, sou **Desenvolvedor Full Stack Web**, atualmente trabalho com aplicações C# .NET. Estou constantemente programando e construindo soluções inovadoras.
+Prazer em ter você aqui, me chamo Ricardo Castro, sou **Desenvolvedor Full Stack Web**, atualmente trabalho com o sistema ERP SAP e C# .NET. Estou constantemente programando e construindo soluções inovadoras.
 
 ```json
 {
