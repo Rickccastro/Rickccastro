@@ -94,6 +94,7 @@ Prazer em ter você aqui, me chamo Ricardo Castro, sou **Desenvolvedor Full Stac
   <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/CLASSICO.png?raw=true"  />
   <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/DEBUG.png?raw=true"  />
   <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/AcademiaModerno.png?raw=true"  />
+    <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/ABAPOO.png?raw=true"  />
   <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/ABAPAPI.png?raw=true"  />
   <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/CDS.png?raw=true"  />
   <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/RAP.png?raw=true"  /
