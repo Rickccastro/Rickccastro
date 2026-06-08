@@ -91,8 +91,6 @@ Prazer em ter você aqui, me chamo Ricardo Castro, sou **Desenvolvedor Full Stac
 
 <div align="center">
   <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png?raw=true"  />
-  <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/AcademiaModerno.png?raw=true"  />
-  <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/AbapJR.png?raw=true"  />
   <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/CLASSICO.png?raw=true"  />
   <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/DEBUG.png?raw=true"  />
   <img style="height: 200px; width: 200px;" src="https://github.com/Rickccastro/Rickccastro/blob/main/CDS.png?raw=true"  />
